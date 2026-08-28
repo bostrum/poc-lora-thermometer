@@ -1,5 +1,5 @@
 # poc-lora-thermometer
-LoRa-based thermometer solution with Chirpstack, Mosquitto, Postgres and Redis.  
+LoRa-based thermometer solution with self-hosted Chirpstack, Mosquitto, Postgres and Redis.  
 Suitable for temperature monitoring by the ocean or lakes where internet access is limited.
 
 ## Architecture Diagram
