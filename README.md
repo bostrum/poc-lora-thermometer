@@ -15,7 +15,7 @@ Suitable for temperature monitoring by the ocean or lakes where internet access 
 ## Deployment
 See [docker-compose.yml](deployment/docker-compose.yml) for containerized setup.
 
-### Credentials
+### Configuration (Not done)
 1. Change environment variable POSTGRES_PASSWORD in compose file.
 2. Edit chirpstack.toml in configuration/chirpstack:  
    a. Change password for integration.mqtt  
