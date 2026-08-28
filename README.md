@@ -13,4 +13,4 @@ Suitable for temperature monitoring by the ocean or lakes where internet access 
 - **3rd-party integrations** through MQTT or Rest API
 
 ## Deployment
-See [docker-compose.yml](docker-compose.yml) for containerized setup.
+See [docker-compose.yml](deployment/docker-compose.yml) for containerized setup.
