@@ -1,0 +1,9 @@
+
+# Chirpstack server - gateway and application topics
+user chirpstack
+topic readwrite eu868/#
+topic readwrite application/#
+
+# Gateway Bridge – only gateway topics
+user gatewaybridgeuser
+topic readwrite eu868/gateway/
