@@ -20,5 +20,5 @@ See [docker-compose.yml](deployment/docker-compose.yml) for containerized setup.
 2. Edit chirpstack.toml in configuration/chirpstack:  
    a. Change password for integration.mqtt  
    b. Change dns under postgresql to your username and password  
-   c. Change secret for API if needed in your setup
-   d. Edit chirpstack-gateway-bridge.toml and set password generated in mosquitto passwd
+   c. Change secret for API if needed in your setup  
+3. Edit chirpstack-gateway-bridge.toml and set password generated in mosquitto passwd
