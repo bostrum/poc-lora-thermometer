@@ -15,7 +15,7 @@ Gateway ID (EUI64): eui for your gateway
 
 #### Payload codec\Codec functions
 **Payload codec:** JavaScript functions  
-**Codec functions:** [Link to file](chirpstack/codec_function.js)
+**Codec functions:** [Link to file](codec_function.js)
 
 ## Applications
 **Name:** Dragino Termometer  
